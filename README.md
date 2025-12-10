@@ -4,6 +4,11 @@
 <img src="https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge" /><img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow" /><img src="https://img.shields.io/badge/PyTorch-Ready-EE4C2C?style=flat-square&logo=pytorch" /><img src="https://img.shieds.io/badge/Kaggle-Datasets-20B2AA?style=flat-square&logo=kaggle" />
 <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 
+<p align="center">
+  <img src="https://github.com/RafaelGallo/andromeda-ai/blob/main/img/003.png?raw=true" width="80%">
+</p>
+
+
 # 📡 Astronomy Datasets Used in *Projeto Andromeda IA*
 AI &amp; Deep Learning experiments applied to astronomy data (images and time series).   The goal of this project is to build and evaluate models that can help classify celestial objects, detect anomalies.
 This project aggregates multiple public astronomy datasets from Kaggle to support experiments in image classification, star-type prediction, exoplanet exploration, pulsar detection, and large-scale sky surveys.
